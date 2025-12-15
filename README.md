@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 I'm a computer science graduate, currently doing my masters in applicated artificial intelligence
-I'm assionate about building real-world websites and also mobile apps.
+I'm passionate about building real-world websites and also mobile apps.
 
 
 
